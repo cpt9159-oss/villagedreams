@@ -1,0 +1,54 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Village Dreams</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f5f8f3}
+header{padding:60px 20px;text-align:center;background:#4CAF50;color:white}
+nav{display:flex;justify-content:center;gap:20px;padding:15px;background:white}
+nav a{text-decoration:none;color:#333;font-weight:bold}
+section{padding:40px 20px;max-width:1000px;margin:auto}
+.card{background:white;padding:20px;margin:15px 0;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.button{display:inline-block;background:#4CAF50;color:white;padding:12px 20px;border-radius:8px;text-decoration:none}
+footer{text-align:center;padding:30px;color:#666}
+</style>
+</head>
+<body><header>
+<h1>Village Dreams</h1>
+<p>Build • Create • Connect • Evolve</p>
+<a class="button" href="#play">Play Soon</a>
+</header><nav>
+<a href="#about">About</a>
+<a href="#vote">Vote</a>
+<a href="#community">Community</a>
+<a href="#news">News</a>
+</nav><section id="about">
+<div class="card">
+<h2>About Village Dreams</h2>
+<p>A living village simulation powered by community participation and AI-assisted world evolution.</p>
+</div>
+</section><section id="vote">
+<div class="card">
+<h2>Community Voting</h2>
+<p>Future updates will be influenced by player votes.</p>
+<ul>
+<li>New Regions</li>
+<li>New Animals</li>
+<li>Special Events</li>
+</ul>
+</div>
+</section><section id="community">
+<div class="card">
+<h2>Community Hub</h2>
+<p>Meet other players, share ideas, and help shape the future of Village Dreams.</p>
+</div>
+</section><section id="news">
+<div class="card">
+<h2>Latest News</h2>
+<p>Development has officially started.</p>
+</div>
+</section><footer>
+© 2026 Village Dreams
+</footer></body>
+</html>
